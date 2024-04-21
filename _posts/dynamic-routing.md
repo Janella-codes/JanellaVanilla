@@ -1,19 +1,40 @@
 ---
-title: "Dynamic Routing and Static Generation"
-excerpt: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus."
-coverImage: "/assets/blog/dynamic-routing/cover.jpg"
+title: "Tropical Watermelon drink"
+excerpt: "A refreshing Tropical Watermelon Cooler that captures the essence of a sun-kissed beach getaway."
+coverImage: "/assets/blog/dynamic-routing/cover2.jpg"
 date: "2020-03-16T05:35:07.322Z"
 author:
   name: JJ Kasper
   picture: "/assets/blog/authors/jj.jpeg"
 ogImage:
-  url: "/assets/blog/dynamic-routing/cover.jpg"
+  url: "/assets/blog/dynamic-routing/cover2.jpg"
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus. Praesent elementum facilisis leo vel fringilla. Congue mauris rhoncus aenean vel. Egestas sed tempus urna et pharetra pharetra massa massa ultricies.
+# Tropical Watermelon drink
 
-Venenatis cras sed felis eget velit. Consectetur libero id faucibus nisl tincidunt. Gravida in fermentum et sollicitudin ac orci phasellus egestas tellus. Volutpat consequat mauris nunc congue nisi vitae. Id aliquet risus feugiat in ante metus dictum at tempor. Sed blandit libero volutpat sed cras. Sed odio morbi quis commodo odio aenean sed adipiscing. Velit euismod in pellentesque massa placerat. Mi bibendum neque egestas congue quisque egestas diam in arcu. Nisi lacus sed viverra tellus in. Nibh cras pulvinar mattis nunc sed. Luctus accumsan tortor posuere ac ut consequat semper viverra. Fringilla ut morbi tincidunt augue interdum velit euismod.
+## Ingredients
 
-## Lorem Ipsum
+- Freshly scooped watermelon balls
+- Chilled coconut water
+- A splash of pineapple juice
+- Crushed ice
+- A hint of lime zest
+- Mint leaves for garnish
 
-Tristique senectus et netus et malesuada fames ac turpis. Ridiculous mus mauris vitae ultricies leo integer malesuada nunc vel. In mollis nunc sed id semper. Egestas tellus rutrum tellus pellentesque. Phasellus vestibulum lorem sed risus ultricies tristique nulla. Quis blandit turpis cursus in hac habitasse platea dictumst quisque. Eros donec ac odio tempor orci dapibus ultrices. Aliquam sem et tortor consequat id porta nibh. Adipiscing elit duis tristique sollicitudin nibh sit amet commodo nulla. Diam vulputate ut pharetra sit amet. Ut tellus elementum sagittis vitae et leo. Arcu non odio euismod lacinia at quis risus sed vulputate.
+## Instructions
+
+1. In a tall, frosty glass, combine the watermelon balls and crushed ice.
+
+2. Pour over the coconut water, allowing the subtle sweetness to infuse.
+
+3. Add a generous splash of pineapple juice for a tropical twist.
+
+4. Grate a touch of lime zest over the top for a zesty kick.
+
+5. Stir gently to mix the flavors.
+
+6. Garnish with a sprig of mint, adding a refreshing aroma.
+
+Presentation: Served on a bamboo tray, accompanied by a slender straw and a tiny umbrella, this drink is a vibrant blend of flavors and colors. The ruby red of the watermelon contrasts beautifully with the green mint and the pale straw hue of the coconut water, making it not only a delight to sip but also a feast for the eyes.
+
+This drink would be perfect for sipping while lounging on a beach, the sound of waves in the background and the warmth of the sun above. Enjoy your virtual tropical escape! 

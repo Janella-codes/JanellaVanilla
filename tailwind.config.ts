@@ -38,6 +38,8 @@ const config: Config = {
       },
     },
   },
-  plugins: [],
+  plugins: [
+    require('tailwindcss-dotted-background'),
+  ],
 };
 export default config;

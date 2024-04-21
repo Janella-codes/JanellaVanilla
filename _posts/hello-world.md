@@ -1,19 +1,44 @@
 ---
-title: "Learn How to Pre-render Pages Using Static Generation with Next.js"
+title: "Lemon Poppy Seed Muffins"
 excerpt: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus."
-coverImage: "/assets/blog/hello-world/cover.jpg"
-date: "2020-03-16T05:35:07.322Z"
+coverImage: "/assets/blog/hello-world/welcome.png"
+date: "2024-04-16T05:35:07.322Z"
 author:
-  name: Tim Neutkens
-  picture: "/assets/blog/authors/tim.jpeg"
+  name: Janelle Vos
+  picture: "/assets/blog/authors/janelle.jpeg"
 ogImage:
   url: "/assets/blog/hello-world/cover.jpg"
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus. Praesent elementum facilisis leo vel fringilla. Congue mauris rhoncus aenean vel. Egestas sed tempus urna et pharetra pharetra massa massa ultricies.
+# Lemon Poppy Seed Muffins
 
-Venenatis cras sed felis eget velit. Consectetur libero id faucibus nisl tincidunt. Gravida in fermentum et sollicitudin ac orci phasellus egestas tellus. Volutpat consequat mauris nunc congue nisi vitae. Id aliquet risus feugiat in ante metus dictum at tempor. Sed blandit libero volutpat sed cras. Sed odio morbi quis commodo odio aenean sed adipiscing. Velit euismod in pellentesque massa placerat. Mi bibendum neque egestas congue quisque egestas diam in arcu. Nisi lacus sed viverra tellus in. Nibh cras pulvinar mattis nunc sed. Luctus accumsan tortor posuere ac ut consequat semper viverra. Fringilla ut morbi tincidunt augue interdum velit euismod.
+## Ingredients
 
-## Lorem Ipsum
+- 2 cups (250g) all-purpose flour
+- 3/4 cup (150g) granulated sugar
+- 2 tablespoons poppy seeds
+- 1 tablespoon baking powder
+- 1/2 teaspoon salt
+- 2 large eggs
+- 1 cup (240ml) milk
+- 1/2 cup (120ml) vegetable oil
+- 1 tablespoon lemon zest (from about 1 lemon)
+- 1/4 cup (60ml) lemon juice
 
-Tristique senectus et netus et malesuada fames ac turpis. Ridiculous mus mauris vitae ultricies leo integer malesuada nunc vel. In mollis nunc sed id semper. Egestas tellus rutrum tellus pellentesque. Phasellus vestibulum lorem sed risus ultricies tristique nulla. Quis blandit turpis cursus in hac habitasse platea dictumst quisque. Eros donec ac odio tempor orci dapibus ultrices. Aliquam sem et tortor consequat id porta nibh. Adipiscing elit duis tristique sollicitudin nibh sit amet commodo nulla. Diam vulputate ut pharetra sit amet. Ut tellus elementum sagittis vitae et leo. Arcu non odio euismod lacinia at quis risus sed vulputate.
+## Instructions
+
+1. **Preheat oven** to 375°F (190°C). Line a muffin tin with paper liners or grease with non-stick spray.
+
+2. **Whisk together** flour, sugar, poppy seeds, baking powder, and salt in a large bowl.
+
+3. **In another bowl**, beat eggs, milk, oil, lemon zest, and lemon juice.
+
+4. **Pour** the wet ingredients into the dry ingredients and stir just until combined. Do not overmix.
+
+5. **Spoon** batter into prepared muffin tin, filling each cup about 2/3 full.
+
+6. **Bake** for 18-20 minutes or until a toothpick inserted into the center of a muffin comes out clean.
+
+7. **Cool** in the pan for 5 minutes, then transfer to a wire rack to cool completely.
+
+Enjoy your fresh lemon poppy seed muffins!

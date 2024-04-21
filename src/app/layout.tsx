@@ -8,8 +8,8 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: `Next.js Blog Example with ${CMS_NAME}`,
-  description: `A statically generated blog example using Next.js and ${CMS_NAME}.`,
+  title: `Janella Vanilla 🤤🥂😁💕`,
+  description: `A Vegan Recipe Blog with a touch of Vanilla`,
   openGraph: {
     images: [HOME_OG_IMAGE_URL],
   },
@@ -21,7 +21,7 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="en">
+    <html className="bg-sky-300 bg-dotted-spacing-4 bg-dotted-gray-200" lang="en">
       <head>
         <link
           rel="apple-touch-icon"
