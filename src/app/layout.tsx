@@ -21,7 +21,7 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html className="bg-sky-300 bg-dotted-spacing-4 bg-dotted-gray-200" lang="en">
+    <html className="bg-sky-300" lang="en">
       <head>
         <link
           rel="apple-touch-icon"
