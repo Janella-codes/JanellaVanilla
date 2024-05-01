@@ -6,7 +6,7 @@ bodyImage:  "/assets/blog/dynamic-routing/cover.jpg"
 bodyImage2: "/assets/blog/dynamic-routing/cover2.jpg"
 date: "2024-04-30T05:35:07.322Z"
 author:
-  name: JJ Kasper
+  name: Seven
   picture: "/assets/blog/authors/janelle.jpeg"
 ogImage:
   url: "/assets/blog/dynamic-routing/cover2.jpg"

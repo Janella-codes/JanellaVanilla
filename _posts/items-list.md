@@ -6,8 +6,8 @@ bodyImage:  "/assets/blog/items-list/possum1.jpg"
 bodyImage2: "/assets/blog/items-list/camp_fire1.jpg"
 date: "2024-04-16T05:35:07.322Z"
 author:
-  name: Janelle Vos
-  picture: "/assets/blog/authors/janelle.jpeg"
+  name: Camp Laurel foundation - posted by Seven in association with camp mulberry 
+  picture: "/assets/blog/authors/mulberry.webp"
 ogImage:
   url: "/assets/blog/hello-world/cover.jpg"
 ---
@@ -68,7 +68,7 @@ Camp is located in Big Bear CA. Temperatures during the day will range from 72�
 - 🏳️‍🌈 Fitted sheets (twin bed size)
 
 ## What to Wear  
-Our Goal is to create an environment that is emotionally and physically safe, as well as culturally sensitive, for everyone. In order to do so we ask that **all staff** dress appropriately for cam and the weather. These guidelines are for outdoor and indoor activities. In advance, we thank you for your cooperation. 
+Our Goal is to create an environment that is emotionally and physically safe, as well as culturally sensitive, for everyone. In order to do so we ask that **all staff** dress appropriately for camp and the weather. These guidelines are for outdoor and indoor activities. In advance, we thank you for your cooperation. 
 
 ## What Not to Bring: 
 The following Items are **NOT** Permitted:
