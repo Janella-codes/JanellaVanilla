@@ -1,19 +1,46 @@
 ---
-title: "Preview Mode for Static Generation"
-excerpt: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus."
-coverImage: "/assets/blog/preview/cover.jpg"
+title: "Vegan Poppy seed muffins"
+excerpt: ""
+coverImage: "/assets/blog/preview/poppy-seed-muffins1.jpg"
+bodyImage:  "/assets/blog/preview/poppy-seed-muffins-stacked.jpg"
+bodyImage2: "/assets/blog/preview/poppy-seed-muffins1.jpg"
 date: "2020-03-16T05:35:07.322Z"
 author:
-  name: Joe Haddad
-  picture: "/assets/blog/authors/joe.jpeg"
+  name: Janelle Vos
+  picture: "/assets/blog/authors/janelle.jpeg"
 ogImage:
-  url: "/assets/blog/preview/cover.jpg"
+  url: "/assets/blog/hello-world/cover.jpg"
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus. Praesent elementum facilisis leo vel fringilla. Congue mauris rhoncus aenean vel. Egestas sed tempus urna et pharetra pharetra massa massa ultricies.
+## Ingredients
 
-Venenatis cras sed felis eget velit. Consectetur libero id faucibus nisl tincidunt. Gravida in fermentum et sollicitudin ac orci phasellus egestas tellus. Volutpat consequat mauris nunc congue nisi vitae. Id aliquet risus feugiat in ante metus dictum at tempor. Sed blandit libero volutpat sed cras. Sed odio morbi quis commodo odio aenean sed adipiscing. Velit euismod in pellentesque massa placerat. Mi bibendum neque egestas congue quisque egestas diam in arcu. Nisi lacus sed viverra tellus in. Nibh cras pulvinar mattis nunc sed. Luctus accumsan tortor posuere ac ut consequat semper viverra. Fringilla ut morbi tincidunt augue interdum velit euismod.
+- 2 batches flax eggs - or egg substitute of your choice
+- 3/4 cup unsweetened applesauce
+- 2 heaping Tbsp Meyer lemon zest (or regular lemons)
+- 1/3 cup Meyer lemon juice (or regular lemon juice)
+- 1 tsp vanilla or lemon extract (optional)
+- 1/4 cup maple syrup or agave nectar (sub honey if not vegan)
+- 1/3 cup natural cane sugar
+- 1/2 tsp sea salt
+- 1 Tbsp poppy seeds (optional // or sub chia seeds)
+- 1 cup whole-wheat pastry flour (or sub unbleached all-purpose)
+- 1/2 cup rolled oats
+- 1/2 cup almond meal
 
-## Lorem Ipsum
+## For the Glaze: 
 
-Tristique senectus et netus et malesuada fames ac turpis. Ridiculous mus mauris vitae ultricies leo integer malesuada nunc vel. In mollis nunc sed id semper. Egestas tellus rutrum tellus pellentesque. Phasellus vestibulum lorem sed risus ultricies tristique nulla. Quis blandit turpis cursus in hac habitasse platea dictumst quisque. Eros donec ac odio tempor orci dapibus ultrices. Aliquam sem et tortor consequat id porta nibh. Adipiscing elit duis tristique sollicitudin nibh sit amet commodo nulla. Diam vulputate ut pharetra sit amet. Ut tellus elementum sagittis vitae et leo. Arcu non odio euismod lacinia at quis risus sed vulputate.
+- 1 cup powdered sugar (sifted)
+- 1 Tbsp lemon juice
+
+## Instructions
+
+1. **Preheat oven to 375 degrees F (190 C)** and line a standard muffin tin with 12 paper liners, or lightly grease.
+
+2. **Prepare flax eggs in a large mixing bowl** and let rest for a few minutes. Zest lemon(s) at this time.
+
+3. **Add applesauce, lemon zest, lemon juice, vanilla or lemon extract (optional), oil, almond milk, maple syrup or agave, cane sugar, baking soda, salt and whisk.** It will foam up because the lemon juice will react with the baking soda.
+
+4. **Add flour, almond meal and oats and stir with a spoon or spatula until just combined, being careful not to over-mix1.**
+
+5. **Bake** The Vegan Lemon Poppy Seed Muffins should be baked in a preheated oven at 375 degrees F (190 C) for about 20 minutes. 
+

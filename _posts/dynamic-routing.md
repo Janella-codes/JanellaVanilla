@@ -2,10 +2,12 @@
 title: "Tropical Watermelon drink"
 excerpt: "A refreshing Tropical Watermelon Cooler that captures the essence of a sun-kissed beach getaway."
 coverImage: "/assets/blog/dynamic-routing/cover2.jpg"
-date: "2020-03-16T05:35:07.322Z"
+bodyImage:  "/assets/blog/dynamic-routing/cover.jpg"
+bodyImage2: "/assets/blog/dynamic-routing/cover2.jpg"
+date: "2024-04-30T05:35:07.322Z"
 author:
   name: JJ Kasper
-  picture: "/assets/blog/authors/jj.jpeg"
+  picture: "/assets/blog/authors/janelle.jpeg"
 ogImage:
   url: "/assets/blog/dynamic-routing/cover2.jpg"
 ---

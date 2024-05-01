@@ -7,7 +7,7 @@ export function Intro() {
       Janella Vanilla 🤤🥂😁💕
       </h1>
       <h4 className="text-center md:text-left text-lg mt-5 md:pl-8">
-        Welcome to my recipe blog - thank you for visiting 😁{" "}
+        Welcome to my recipe blog - thank you for visiting 😁{" "} <br />
         <a
           href="https://janellasplace.com"
           className="underline hover:text-blue-600 duration-200 transition-colors"

@@ -30,7 +30,18 @@ export default async function Post({ params }: Params) {
             date={post.date}
             author={post.author}
           />
-          <PostBody content={content} />
+          <PostBody 
+          bodyImage={post.bodyImage}
+          content={content}
+          bodyImage2={post.bodyImage2}
+          title={post.title}
+          />
+            <PostBody /// 2nd post body
+          bodyImage={post.bodyImage}
+          content={content}
+          bodyImage2={post.bodyImage2}
+          title={post.title}
+          />
         </article>
       </Container>
     </main>
