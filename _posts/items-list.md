@@ -68,7 +68,7 @@ Camp is located in Big Bear CA. Temperatures during the day will range from 72�
 - 🏳️‍🌈 Fitted sheets (twin bed size)
 
 ## What to Wear  
-Our Goal is to create an environment that is emotionally and physically safe, as well as culturally sensitive, for everyone. In order to do so we ask that **all staff** dress appropriately for cam and the weather. These guidelines are for outdoor and indoor activities. In advance, we thank you for your cooperation. 
+Our Goal is to create an environment that is emotionally and physically safe, as well as culturally sensitive, for everyone. In order to do so we ask that **all staff** dress appropriately for camp and the weather. These guidelines are for outdoor and indoor activities. In advance, we thank you for your cooperation. 
 
 ## What Not to Bring: 
 The following Items are **NOT** Permitted:
