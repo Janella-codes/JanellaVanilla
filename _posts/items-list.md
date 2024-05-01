@@ -14,6 +14,14 @@ ogImage:
 
 # Do not bring your pet possum, but if you happen to have a pet possum that is Rad 😁
 
+## Please feel free to share your pets and pet stories on my camp social app 
+
+[camp threads](https://camp-threads.vercel.app/)
+
+## Or Discord
+
+[Discord Mulberry](https://discord.gg/f85kj9YW)
+
 ## What to bring
 
 Camp is located in Big Bear CA. Temperatures during the day will range from 72℉ and 80℉ during the day and at night temperatures may drop to 44℉ or even a little cooler than that on occasion. It is a good idea to plan for both warm and cool weather. You should plan on packing the following items: 
@@ -23,11 +31,10 @@ Camp is located in Big Bear CA. Temperatures during the day will range from 72�
 - ⭐A warm sleeping bag / Pillow / sheet
 - ⭐An inexpensive watch 
 - ⭐Training Manual 
-- ⭐ 7 - 10 t-shirts - 5 - 6 pairs of jeans
-- ⭐ Swim suite (modest), towel, sun hat, sun screen
+- ⭐ Backpack
+- ⭐ A Bathing suite (modest), towel, sun hat, sun screen
 - ⭐ 2 pairs of comfortable, durable athletic or hiking shoes. **Closed Toed** w/good Traction 
 - ⭐ Flash light or Head lamp and extra batteries 
-- ⭐7 - 10 t-shirts - 5 - 6 pairs of jeans
 
 ## Should Bring
 
@@ -98,4 +105,4 @@ We suggest you pack all of your belongings in a duffle bag, ** clearly marked** 
 
 ## Phones: 
 
-Please note that staff will not hae access to a telephone to make or receive calls, unless in the event of an emergency. Our emergency phone line at camp 213 - 300 - 2267. Messages are checked daily. Please give this to your loved ones or anyone that might need to get a message to you immediately. This phone will be monitored 24 hours a day. 
+Please note that staff will not have access to a telephone to make or receive calls, unless in the event of an emergency. Our emergency phone line at camp 213 - 300 - 2267. Messages are checked daily. Please give this to your loved ones or anyone that might need to get a message to you immediately. This phone will be monitored 24 hours a day. 
