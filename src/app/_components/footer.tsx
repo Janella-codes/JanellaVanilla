@@ -3,12 +3,14 @@ import { EXAMPLE_PATH } from "@/lib/constants";
 
 export function Footer() {
   return (
-    <footer className="bg-neutral-50 border-t border-neutral-200">
+    <footer className="bg-sky-300 border-t border-neutral-200">
       <Container>
         <div className="py-28 flex flex-col lg:flex-row items-center">
+        <small className="text-xs text-slate-400" >&copy; 2024 Janella-codes. All rights reserved</small>
           <h3 className="text-4xl lg:text-[2.5rem] font-bold tracking-tighter leading-tight text-center lg:text-left mb-10 lg:mb-0 lg:pr-4 lg:w-1/2">
             Janella Vanilla 🤤🥂😁💕
           </h3>
+          
           <div className="flex flex-col lg:flex-row justify-center items-center lg:pl-4 lg:w-1/2">
             <a
               href="https://janellavanilla.com"
@@ -22,7 +24,9 @@ export function Footer() {
             >
               
             </a>
+            
           </div>
+          
         </div>
       </Container>
     </footer>
