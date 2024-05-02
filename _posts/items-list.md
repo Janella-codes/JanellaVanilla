@@ -2,7 +2,7 @@
 title: "Items to bring to camp"
 excerpt: "A list of items to bring to camp"
 coverImage: "/assets/blog/items-list/me_camp2.png"
-bodyImage:  "/assets/blog/items-list/possum1.jpg"
+bodyImage:  "/assets/blog/items-list/possum6.jpg"
 bodyImage2: "/assets/blog/items-list/camp_fire1.jpg"
 date: "2024-04-16T05:35:07.322Z"
 author:
