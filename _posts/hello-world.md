@@ -1,7 +1,7 @@
 ---
 title: "French Toast"
 excerpt: "Enjoy a scrumptious and fluffy vegan French toast that’s perfect for a fancy sunday breakfast or brunch."
-coverImage: "/assets/blog/hello-world/pans1.jpg"
+coverImage: "/assets/blog/hello-world/pans3.png"
 bodyImage:  "/assets/blog/hello-world/last.jpg"
 bodyImage2: "/assets/blog/hello-world/toast1.jpg"
 date: "2024-04-16T05:35:07.322Z"

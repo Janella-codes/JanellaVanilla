@@ -1,7 +1,7 @@
 ---
 title: "Items to bring to camp"
 excerpt: "A list of items to bring to camp"
-coverImage: "/assets/blog/items-list/me_camp2.png"
+coverImage: "/assets/blog/items-list/welcome_pathfinder_1.jpg"
 bodyImage:  "/assets/blog/items-list/possum6.jpg"
 bodyImage2: "/assets/blog/items-list/camp_fire1.jpg"
 date: "2024-04-16T05:35:07.322Z"
@@ -25,6 +25,8 @@ ogImage:
 ## What to bring
 
 Camp is located in Big Bear CA. Temperatures during the day will range from 72℉ and 80℉ during the day and at night temperatures may drop to 44℉ or even a little cooler than that on occasion. It is a good idea to plan for both warm and cool weather. You should plan on packing the following items: 
+
+![big_bear_stage_1](/assets/blog/items-list/camp_drench_1.jpg)
 
 ## Must Bring: 
 - ⭐Small alarm Clock
@@ -77,6 +79,9 @@ Camp is located in Big Bear CA. Temperatures during the day will range from 72�
 ## What to Wear  
 Our Goal is to create an environment that is emotionally and physically safe, as well as culturally sensitive, for everyone. In order to do so we ask that **all staff** dress appropriately for camp and the weather. These guidelines are for outdoor and indoor activities. In advance, we thank you for your cooperation. 
 
+![big_bear_stage_1](/assets/blog/items-list/big_bear_stage_1.HEIC)
+
+
 ## What Not to Bring: 
 The following Items are **NOT** Permitted:
 - ☹️ Ipods/radio/MP3 players/tablets, video games etc.
@@ -106,3 +111,5 @@ We suggest you pack all of your belongings in a duffle bag, ** clearly marked** 
 ## Phones: 
 
 Please note that staff will not have access to a telephone to make or receive calls, unless in the event of an emergency. Our emergency phone line at camp 213 - 300 - 2267. Messages are checked daily. Please give this to your loved ones or anyone that might need to get a message to you immediately. This phone will be monitored 24 hours a day. 
+![big_bear_stage_1](/assets/blog/items-list/camp_drench_2.jpg)
+
