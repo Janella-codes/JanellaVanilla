@@ -2,7 +2,7 @@
 title: "Tropical Watermelon drink"
 excerpt: "A refreshing Tropical Watermelon Cooler that captures the essence of a sun-kissed beach getaway."
 coverImage: "/assets/blog/dynamic-routing/marketplace_7.jpg"
-bodyImage:  "/assets/blog/dynamic-routing/tropical_sky1.png"
+bodyImage:  "/assets/blog/dynamic-routing/cover2.jpg"
 bodyImage2: "/assets/blog/dynamic-routing/me_boracay1.png"
 date: "2024-04-30T05:35:07.322Z"
 author:
@@ -22,6 +22,8 @@ ogImage:
 - Crushed ice
 - A hint of lime zest
 - Mint leaves for garnish
+
+![big_bear_stage_1](/assets/blog/dynamic-routing/tropical_sky1.png)
 
 ## Instructions
 
