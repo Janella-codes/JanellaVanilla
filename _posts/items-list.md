@@ -38,6 +38,8 @@ Camp is located in Big Bear CA. Temperatures during the day will range from 72�
 - ⭐ 2 pairs of comfortable, durable athletic or hiking shoes. **Closed Toed** w/good Traction 
 - ⭐ Flash light or Head lamp and extra batteries 
 
+![big_bear_stage_1](/assets/blog/items-list/cabins_1.jpg)
+
 ## Should Bring
 
 - 🏳️‍🌈 Prescription Meds (Must be given to the Med Staff in **ORIGINAL** containers)

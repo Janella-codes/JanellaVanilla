@@ -36,12 +36,7 @@ export default async function Post({ params }: Params) {
           bodyImage2={post.bodyImage2}
           title={post.title}
           />
-            <PostBody /// 2nd post body
-          bodyImage={post.bodyImage}
-          content={content}
-          bodyImage2={post.bodyImage2}
-          title={post.title}
-          />
+
         </article>
       </Container>
     </main>
