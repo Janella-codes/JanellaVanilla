@@ -7,7 +7,7 @@ bodyImage2: "/assets/blog/preview/poppy-seed-muffins1.jpg"
 date: "2020-03-16T05:35:07.322Z"
 author:
   name: Janelle Vos
-  picture: "/assets/blog/authors/janelle.jpeg"
+  picture: "/assets/blog/authors/me1.jpg"
 ogImage:
   url: "/assets/blog/hello-world/cover.jpg"
 ---

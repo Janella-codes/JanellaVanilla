@@ -7,7 +7,7 @@ bodyImage2: "/assets/blog/tofu_scramble/tofu_plate1.jpg"
 date: "2024-04-30T05:35:07.322Z"
 author:
   name: Seven
-  picture: "/assets/blog/authors/janelle.jpeg"
+  picture: "/assets/blog/authors/me1.jpg"
 ogImage:
   url: "/assets/blog/tofu_scramble/tofu_scramble.jpg"
 ---

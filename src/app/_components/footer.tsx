@@ -6,7 +6,7 @@ export function Footer() {
     <footer className="bg-sky-300 border-t border-neutral-200">
       <Container>
         <div className="py-28 flex flex-col lg:flex-row items-center">
-        <small className="text-xs text-slate-400" >&copy; 2024 Janella-codes. All rights reserved</small>
+        <small className="text-xs text-slate-400" >&copy; 2025 Janella-codes. All rights reserved</small>
           <h3 className="text-4xl lg:text-[2.5rem] font-bold tracking-tighter leading-tight text-center lg:text-left mb-10 lg:mb-0 lg:pr-4 lg:w-1/2">
             Janella Vanilla 🤤🥂😁💕
           </h3>
