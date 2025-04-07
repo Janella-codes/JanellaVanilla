@@ -1,7 +1,7 @@
 ---
 title: "Tropical Watermelon drink"
 excerpt: "A refreshing Tropical Watermelon Cooler that captures the essence of a sun-kissed beach getaway."
-coverImage: "/assets/blog/dynamic-routing/marketplace_6.jpg"
+coverImage: "/assets/blog/dynamic-routing/market5.jpg"
 bodyImage:  "/assets/blog/dynamic-routing/cover2.jpg"
 bodyImage2: "/assets/blog/dynamic-routing/me_boracay1.png"
 date: "2024-04-30T05:35:07.322Z"
